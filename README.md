@@ -46,6 +46,9 @@ This guide provides instructions on how to run the application locally for both 
 # Main page
 ![image](https://github.com/lilter96/Solvintech/assets/72393399/ae73a44c-df46-481b-8538-eba7e1cabdb3)
 
+# Main page on mobile
+![image](https://github.com/lilter96/Solvintech/assets/72393399/b21ffae4-7bef-4fe7-af09-e2ffec818453)
+
 # After login
 ![image](https://github.com/lilter96/Solvintech/assets/72393399/46ee8988-bebb-49e6-afd1-8ddb23b0570c)
 
